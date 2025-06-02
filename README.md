@@ -18,7 +18,7 @@
 ### 1.0 版本
 
 **适用于**：Etrans ToolBox Android Root工具箱  
-**版权所有** © 2024 Etrans团队及开发者静思 (jing si)  
+**版权所有** © 2024 Etrans团队及开发者静思 (JNSBark)  
 **生效日期**：本仓库创建之日
 
 ## 一、授予的权利
