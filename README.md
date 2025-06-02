@@ -14,9 +14,9 @@
 - **Android 12.0 或者更高版本**
 ***
 ### **开源声明（不读给你马杀了）
-# Etrans ToolBox 开源许可协议
+## Etrans ToolBox 开源许可协议
 
-## 1.0 版本
+### 1.0 版本
 
 **适用于**：Etrans ToolBox Android Root工具箱  
 **版权所有** © 2024 Etrans团队及开发者静思 (jing si)  
@@ -55,5 +55,5 @@
 1. **在软件界面**的显著位置标明：
    > "基于 Etrans ToolBox | 作者：静思 & Etrans团队"
    
-2. **在项目代码**的关键入口文件（如`MainActivity.java`）顶部保留注释：
-
+2. **在项目代码**的关键入口文件（如`main.lua`）顶部保留注释：
+    > "基于 Etrans ToolBox | 作者：静思 & Etrans团队"
