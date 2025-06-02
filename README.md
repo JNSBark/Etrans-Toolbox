@@ -2,3 +2,4 @@
 ## 版本 V1.0
 ### 主要功能
 - **刷入或备份安卓boot或int_boot镜像**
+- **MD3（Material Design 3）风格UI设计**
