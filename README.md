@@ -10,5 +10,6 @@
 - **CPU/GPU 超频调优**
 - **多项功能等你探索**
 ### 使用条件
-- Android 设备已取得 Root 权限（Magisk/KernelSU 等）
-- Android 12.0 或者更高版本
+- **Android 设备已取得 Root 权限（Magisk/KernelSU 等）**
+- **Android 12.0 或者更高版本**
+### 开源声明
